@@ -182,7 +182,7 @@ R003,Oscar,Developer,P002,MSF,2025,12,2025-03-19,2025-03-25,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,12,2025-03-19,2025-03-25,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,12,2025-03-19,2025-03-25,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,12,2025-03-19,2025-03-25,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,12,2025-03-19,2025-03-25,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,12,2025-03-19,2025-03-25,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,12,2025-03-19,2025-03-25,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,12,2025-03-19,2025-03-25,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,12,2025-03-19,2025-03-25,100,Full year allocation
@@ -198,7 +198,7 @@ R003,Oscar,Developer,P002,MSF,2025,13,2025-03-26,2025-04-01,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,13,2025-03-26,2025-04-01,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,13,2025-03-26,2025-04-01,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,13,2025-03-26,2025-04-01,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,13,2025-03-26,2025-04-01,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,13,2025-03-26,2025-04-01,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,13,2025-03-26,2025-04-01,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,13,2025-03-26,2025-04-01,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,13,2025-03-26,2025-04-01,100,Full year allocation
@@ -214,7 +214,7 @@ R003,Oscar,Developer,P002,MSF,2025,14,2025-04-02,2025-04-08,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,14,2025-04-02,2025-04-08,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,14,2025-04-02,2025-04-08,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,14,2025-04-02,2025-04-08,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,14,2025-04-02,2025-04-08,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,14,2025-04-02,2025-04-08,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,14,2025-04-02,2025-04-08,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,14,2025-04-02,2025-04-08,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,14,2025-04-02,2025-04-08,100,Full year allocation
@@ -230,7 +230,7 @@ R003,Oscar,Developer,P002,MSF,2025,15,2025-04-09,2025-04-15,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,15,2025-04-09,2025-04-15,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,15,2025-04-09,2025-04-15,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,15,2025-04-09,2025-04-15,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,15,2025-04-09,2025-04-15,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,15,2025-04-09,2025-04-15,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,15,2025-04-09,2025-04-15,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,15,2025-04-09,2025-04-15,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,15,2025-04-09,2025-04-15,100,Full year allocation
@@ -246,7 +246,7 @@ R003,Oscar,Developer,P002,MSF,2025,16,2025-04-16,2025-04-22,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,16,2025-04-16,2025-04-22,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,16,2025-04-16,2025-04-22,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,16,2025-04-16,2025-04-22,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,16,2025-04-16,2025-04-22,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,16,2025-04-16,2025-04-22,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,16,2025-04-16,2025-04-22,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,16,2025-04-16,2025-04-22,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,16,2025-04-16,2025-04-22,100,Full year allocation
@@ -262,7 +262,7 @@ R003,Oscar,Developer,P002,MSF,2025,17,2025-04-23,2025-04-29,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,17,2025-04-23,2025-04-29,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,17,2025-04-23,2025-04-29,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,17,2025-04-23,2025-04-29,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,17,2025-04-23,2025-04-29,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,17,2025-04-23,2025-04-29,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,17,2025-04-23,2025-04-29,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,17,2025-04-23,2025-04-29,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,17,2025-04-23,2025-04-29,100,Full year allocation
@@ -278,7 +278,7 @@ R003,Oscar,Developer,P002,MSF,2025,18,2025-04-30,2025-05-06,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,18,2025-04-30,2025-05-06,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,18,2025-04-30,2025-05-06,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,18,2025-04-30,2025-05-06,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,18,2025-04-30,2025-05-06,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,18,2025-04-30,2025-05-06,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,18,2025-04-30,2025-05-06,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,18,2025-04-30,2025-05-06,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,18,2025-04-30,2025-05-06,100,Full year allocation
@@ -294,7 +294,7 @@ R003,Oscar,Developer,P002,MSF,2025,19,2025-05-07,2025-05-13,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,19,2025-05-07,2025-05-13,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,19,2025-05-07,2025-05-13,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,19,2025-05-07,2025-05-13,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,19,2025-05-07,2025-05-13,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,19,2025-05-07,2025-05-13,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,19,2025-05-07,2025-05-13,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,19,2025-05-07,2025-05-13,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,19,2025-05-07,2025-05-13,100,Full year allocation
@@ -309,8 +309,8 @@ R002,Alex,Developer,P003,SPS,2025,20,2025-05-14,2025-05-20,50,Split allocation w
 R003,Oscar,Developer,P002,MSF,2025,20,2025-05-14,2025-05-20,50,Split allocation with SPS
 R003,Oscar,Developer,P003,SPS,2025,20,2025-05-14,2025-05-20,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,20,2025-05-14,2025-05-20,100,Full year allocation
-R005,Zhien,Developer,P004,PALMS,2025,20,2025-05-14,2025-05-20,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,20,2025-05-14,2025-05-20,100,Full year allocation
+R005,Zhien,Developer,P010,PLM,2025,20,2025-05-14,2025-05-20,100,Covering for Asrin on PLM while on leave
+R006,Elwyn,Developer,P005,DTM,2025,20,2025-05-14,2025-05-20,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,20,2025-05-14,2025-05-20,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,20,2025-05-14,2025-05-20,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,20,2025-05-14,2025-05-20,100,Full year allocation
@@ -326,7 +326,7 @@ R003,Oscar,Developer,P002,MSF,2025,21,2025-05-21,2025-05-27,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,21,2025-05-21,2025-05-27,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,21,2025-05-21,2025-05-27,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,21,2025-05-21,2025-05-27,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,21,2025-05-21,2025-05-27,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,21,2025-05-21,2025-05-27,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,21,2025-05-21,2025-05-27,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,21,2025-05-21,2025-05-27,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,21,2025-05-21,2025-05-27,100,Full year allocation
@@ -342,7 +342,7 @@ R003,Oscar,Developer,P002,MSF,2025,22,2025-05-28,2025-06-03,50,Split allocation 
 R003,Oscar,Developer,P003,SPS,2025,22,2025-05-28,2025-06-03,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,22,2025-05-28,2025-06-03,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,22,2025-05-28,2025-06-03,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,22,2025-05-28,2025-06-03,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,22,2025-05-28,2025-06-03,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,22,2025-05-28,2025-06-03,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,22,2025-05-28,2025-06-03,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,22,2025-05-28,2025-06-03,100,Full year allocation
@@ -352,13 +352,13 @@ R011,Rob,Developer,P009,ADS,2025,22,2025-05-28,2025-06-03,50,Split allocation wi
 R012,Simon,Developer,P008,SCT,2025,22,2025-05-28,2025-06-03,50,Split allocation with ADS
 R012,Simon,Developer,P009,ADS,2025,22,2025-05-28,2025-06-03,50,Split allocation with SCT
 R001,Alastair,Developer,P001,LaunchPad,2025,23,2025-06-04,2025-06-10,100,Full year allocation
-R002,Alex,Developer,P002,MSF,2025,23,2025-06-04,2025-06-10,50,Split allocation with SPS
+R002,Alex,Developer,P017,MHAP,2025,23,2025-06-04,2025-06-10,50,Switched from MSF to MHAP for two months
 R002,Alex,Developer,P003,SPS,2025,23,2025-06-04,2025-06-10,50,Split allocation with MSF
 R003,Oscar,Developer,P002,MSF,2025,23,2025-06-04,2025-06-10,50,Split allocation with SPS
 R003,Oscar,Developer,P003,SPS,2025,23,2025-06-04,2025-06-10,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,23,2025-06-04,2025-06-10,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,23,2025-06-04,2025-06-10,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,23,2025-06-04,2025-06-10,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,23,2025-06-04,2025-06-10,0,Annual leave for 3 months ending mid-June
 R007,Patrick,Developer,P005,DTM,2025,23,2025-06-04,2025-06-10,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,23,2025-06-04,2025-06-10,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,23,2025-06-04,2025-06-10,100,Full year allocation
@@ -367,14 +367,14 @@ R011,Rob,Developer,P008,SCT,2025,23,2025-06-04,2025-06-10,50,Split allocation wi
 R011,Rob,Developer,P009,ADS,2025,23,2025-06-04,2025-06-10,50,Split allocation with SCT
 R012,Simon,Developer,P008,SCT,2025,23,2025-06-04,2025-06-10,50,Split allocation with ADS
 R012,Simon,Developer,P009,ADS,2025,23,2025-06-04,2025-06-10,50,Split allocation with SCT
-R001,Alastair,Developer,P001,LaunchPad,2025,24,2025-06-11,2025-06-17,100,Full year allocation
-R002,Alex,Developer,P002,MSF,2025,24,2025-06-11,2025-06-17,50,Split allocation with SPS
+R001,Alastair,Developer,P007,CLOVA,2025,24,2025-06-11,2025-06-17,100,Covering for Cristina on CLOVA for 2 weeks
+R002,Alex,Developer,P017,MHAP,2025,24,2025-06-11,2025-06-17,50,Switched from MSF to MHAP for two months
 R002,Alex,Developer,P003,SPS,2025,24,2025-06-11,2025-06-17,50,Split allocation with MSF
 R003,Oscar,Developer,P002,MSF,2025,24,2025-06-11,2025-06-17,50,Split allocation with SPS
 R003,Oscar,Developer,P003,SPS,2025,24,2025-06-11,2025-06-17,50,Split allocation with MSF
 R004,Anthony,Developer,P004,PALMS,2025,24,2025-06-11,2025-06-17,100,Full year allocation
 R005,Zhien,Developer,P004,PALMS,2025,24,2025-06-11,2025-06-17,100,Full year allocation
-R006,Elwyn,Developer,P005,DTM,2025,24,2025-06-11,2025-06-17,100,Full year allocation
+R006,Elwyn,Developer,P005,DTM,2025,24,2025-06-11,2025-06-17,50,Returning from annual leave mid-June
 R007,Patrick,Developer,P005,DTM,2025,24,2025-06-11,2025-06-17,100,Full year allocation
 R008,Imran,Developer,P005,DTM,2025,24,2025-06-11,2025-06-17,100,Full year allocation
 R009,Joe,Developer,P006,OCS,2025,24,2025-06-11,2025-06-17,100,Full year allocation
@@ -384,7 +384,7 @@ R011,Rob,Developer,P009,ADS,2025,24,2025-06-11,2025-06-17,50,Split allocation wi
 R012,Simon,Developer,P008,SCT,2025,24,2025-06-11,2025-06-17,50,Split allocation with ADS
 R012,Simon,Developer,P009,ADS,2025,24,2025-06-11,2025-06-17,50,Split allocation with SCT
 R001,Alastair,Developer,P001,LaunchPad,2025,25,2025-06-18,2025-06-24,100,Full year allocation
-R002,Alex,Developer,P002,MSF,2025,25,2025-06-18,2025-06-24,50,Split allocation with SPS
+R002,Alex,Developer,P017,MHAP,2025,25,2025-06-18,2025-06-24,50,Switched from MSF to MHAP for two months
 R002,Alex,Developer,P003,SPS,2025,25,2025-06-18,2025-06-24,50,Split allocation with MSF
 R003,Oscar,Developer,P002,MSF,2025,25,2025-06-18,2025-06-24,50,Split allocation with SPS
 R003,Oscar,Developer,P003,SPS,2025,25,2025-06-18,2025-06-24,50,Split allocation with MSF
@@ -400,7 +400,7 @@ R011,Rob,Developer,P009,ADS,2025,25,2025-06-18,2025-06-24,50,Split allocation wi
 R012,Simon,Developer,P008,SCT,2025,25,2025-06-18,2025-06-24,50,Split allocation with ADS
 R012,Simon,Developer,P009,ADS,2025,25,2025-06-18,2025-06-24,50,Split allocation with SCT
 R001,Alastair,Developer,P001,LaunchPad,2025,26,2025-06-25,2025-07-01,100,Full year allocation
-R002,Alex,Developer,P002,MSF,2025,26,2025-06-25,2025-07-01,50,Split allocation with SPS
+R002,Alex,Developer,P017,MHAP,2025,26,2025-06-25,2025-07-01,50,Switched from MSF to MHAP for two months
 R002,Alex,Developer,P003,SPS,2025,26,2025-06-25,2025-07-01,50,Split allocation with MSF
 R003,Oscar,Developer,P002,MSF,2025,26,2025-06-25,2025-07-01,50,Split allocation with SPS
 R003,Oscar,Developer,P003,SPS,2025,26,2025-06-25,2025-07-01,50,Split allocation with MSF
@@ -416,7 +416,7 @@ R011,Rob,Developer,P009,ADS,2025,26,2025-06-25,2025-07-01,50,Split allocation wi
 R012,Simon,Developer,P008,SCT,2025,26,2025-06-25,2025-07-01,50,Split allocation with ADS
 R012,Simon,Developer,P009,ADS,2025,26,2025-06-25,2025-07-01,50,Split allocation with SCT
 R001,Alastair,Developer,P001,LaunchPad,2025,27,2025-07-02,2025-07-08,100,Full year allocation
-R002,Alex,Developer,P002,MSF,2025,27,2025-07-02,2025-07-08,50,Split allocation with SPS
+R002,Alex,Developer,P017,MHAP,2025,27,2025-07-02,2025-07-08,50,Switched from MSF to MHAP for two months
 R002,Alex,Developer,P003,SPS,2025,27,2025-07-02,2025-07-08,50,Split allocation with MSF
 R003,Oscar,Developer,P002,MSF,2025,27,2025-07-02,2025-07-08,50,Split allocation with SPS
 R003,Oscar,Developer,P003,SPS,2025,27,2025-07-02,2025-07-08,50,Split allocation with MSF
@@ -1071,3 +1071,92 @@ R015,Kaushik,Developer,P011,GEMS,2025,51,2025-12-17,2025-12-23,45,Split 45/45 be
 R015,Kaushik,Developer,P013,M2S,2025,52,2025-12-24,2025-12-30,10,Consistent 10% allocation throughout the year
 R015,Kaushik,Developer,P014,AROA,2025,52,2025-12-24,2025-12-30,45,Split 45/45 between AROA and GEMS from week 21
 R015,Kaushik,Developer,P011,GEMS,2025,52,2025-12-24,2025-12-30,45,Split 45/45 between AROA and GEMS from week 21
+R016,Wallace,Developer,P015,FSP,2025,16,2025-04-16,2025-04-22,100,Started mid-April
+R016,Wallace,Developer,P015,FSP,2025,17,2025-04-23,2025-04-29,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,18,2025-04-30,2025-05-06,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,19,2025-05-07,2025-05-13,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,20,2025-05-14,2025-05-20,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,21,2025-05-21,2025-05-27,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,22,2025-05-28,2025-06-03,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,23,2025-06-04,2025-06-10,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,24,2025-06-11,2025-06-17,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,25,2025-06-18,2025-06-24,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,26,2025-06-25,2025-07-01,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,27,2025-07-02,2025-07-08,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,28,2025-07-09,2025-07-15,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,29,2025-07-16,2025-07-22,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,30,2025-07-23,2025-07-29,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,31,2025-07-30,2025-08-05,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,32,2025-08-06,2025-08-12,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,33,2025-08-13,2025-08-19,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,34,2025-08-20,2025-08-26,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,35,2025-08-27,2025-09-02,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,36,2025-09-03,2025-09-09,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,37,2025-09-10,2025-09-16,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,38,2025-09-17,2025-09-23,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,39,2025-09-24,2025-09-30,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,40,2025-10-01,2025-10-07,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,41,2025-10-08,2025-10-14,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,42,2025-10-15,2025-10-21,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,43,2025-10-22,2025-10-28,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,44,2025-10-29,2025-11-04,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,45,2025-11-05,2025-11-11,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,46,2025-11-12,2025-11-18,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,47,2025-11-19,2025-11-25,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,48,2025-11-26,2025-12-02,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,49,2025-12-03,2025-12-09,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,50,2025-12-10,2025-12-16,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,51,2025-12-17,2025-12-23,100,Full allocation
+R016,Wallace,Developer,P015,FSP,2025,52,2025-12-24,2025-12-30,100,Full allocation
+R017,Steph,Developer,P016,FPP,2025,1,2025-01-01,2025-01-07,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,2,2025-01-08,2025-01-14,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,3,2025-01-15,2025-01-21,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,4,2025-01-22,2025-01-28,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,5,2025-01-29,2025-02-04,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,6,2025-02-05,2025-02-11,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,7,2025-02-12,2025-02-18,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,8,2025-02-19,2025-02-25,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,9,2025-02-26,2025-03-04,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,10,2025-03-05,2025-03-11,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,11,2025-03-12,2025-03-18,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,12,2025-03-19,2025-03-25,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,13,2025-03-26,2025-04-01,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,14,2025-04-02,2025-04-08,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,15,2025-04-09,2025-04-15,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,16,2025-04-16,2025-04-22,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,17,2025-04-23,2025-04-29,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,18,2025-04-30,2025-05-06,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,19,2025-05-07,2025-05-13,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,20,2025-05-14,2025-05-20,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,21,2025-05-21,2025-05-27,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,22,2025-05-28,2025-06-03,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,23,2025-06-04,2025-06-10,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,24,2025-06-11,2025-06-17,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,25,2025-06-18,2025-06-24,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,26,2025-06-25,2025-07-01,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,27,2025-07-02,2025-07-08,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,28,2025-07-09,2025-07-15,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,29,2025-07-16,2025-07-22,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,30,2025-07-23,2025-07-29,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,31,2025-07-30,2025-08-05,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,32,2025-08-06,2025-08-12,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,33,2025-08-13,2025-08-19,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,34,2025-08-20,2025-08-26,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,35,2025-08-27,2025-09-02,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,36,2025-09-03,2025-09-09,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,37,2025-09-10,2025-09-16,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,38,2025-09-17,2025-09-23,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,39,2025-09-24,2025-09-30,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,40,2025-10-01,2025-10-07,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,41,2025-10-08,2025-10-14,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,42,2025-10-15,2025-10-21,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,43,2025-10-22,2025-10-28,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,44,2025-10-29,2025-11-04,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,45,2025-11-05,2025-11-11,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,46,2025-11-12,2025-11-18,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,47,2025-11-19,2025-11-25,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,48,2025-11-26,2025-12-02,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,49,2025-12-03,2025-12-09,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,50,2025-12-10,2025-12-16,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,51,2025-12-17,2025-12-23,100,Full year allocation
+R017,Steph,Developer,P016,FPP,2025,52,2025-12-24,2025-12-30,100,Full year allocation
